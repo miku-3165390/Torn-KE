@@ -12,8 +12,8 @@ A program made with the purpose of making advertising easier!
 
 1. Install the required libraries by running `install.bat`.
 2. Run the script using `python keyboard_emulation.py` or by double clicking it.
-3. Press the `=` key to toggle the keyboard emulation on and off.
-4. Change the ad within the bot code where it is labeled.
+3. Copy your ad by selecting it and pressing Ctrl+C
+4. Press the `=` key to toggle the keyboard emulation on and off.
 5. Adjust the script parameters such as delay timings as needed.
 
 ## USE AT YOUR OWN RISK
