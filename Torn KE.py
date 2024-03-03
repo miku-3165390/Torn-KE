@@ -35,7 +35,8 @@ while True:
         paste_and_enter()
     else:
         time.sleep(0.1)  # Short sleep when the program is not running to avoid high CPU usage
-
+#Made by miku [3165390]
+        
 #THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
 #EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 #MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
