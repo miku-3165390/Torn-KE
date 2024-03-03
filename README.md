@@ -17,8 +17,6 @@ A program made with the sole purpose of making advertising easier!
 
 ## USE AT YOUR OWN RISK
 
-This program violates Torn TOS, so please use at your own risk. Please open an issue if your account gets fedded so I can fix it so others dont.
-
 ## License
 
 This script is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
