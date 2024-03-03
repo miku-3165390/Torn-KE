@@ -1,6 +1,6 @@
 # Torn KE
 
-A program made with the sole purpose of making advertising easier!
+A program made with the purpose of making advertising easier!
 
 ## Features
 
